@@ -1,4 +1,5 @@
 # About
+The task of this exercise was to implement a recursive painting method. Go check out the code!
 
 # Screenshots
 ![Screenshot_6](https://user-images.githubusercontent.com/83656997/148781964-bc57bc81-0ac1-4ec4-a732-c3c0f50a8d28.png)
